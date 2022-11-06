@@ -1,4 +1,4 @@
-# LBCNN
+# TCS-LBCNN
 Torch implementation of - Threshold Center-Symmetric Local Binary Convolutional Neural Networks for Bilingual Handwritten Digit Recognition
 
 ## Abstract

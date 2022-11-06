@@ -1,0 +1,19 @@
+For MNIST dataset:
+
+th main.lua -netType resnet-binary-felix8 -dataset mnist  -numChannels 16 -batchSize 10 -depth 15 -full 128 
+th main.lua -netType resnet-csbinary-felix8 -dataset mnist  -numChannels 16 -batchSize 10 -depth 15 -full 128  -nEpochs 80
+th main.lua -netType resnet-tcsbinary-felix8 -dataset mnist  -numChannels 16 -batchSize 10 -depth 15 -full 128  -nEpochs 80
+
+
+For MADBase dataset:
+
+th main.lua -netType resnet-binary-felix8 -dataset mhad  -numChannels 16 -batchSize 10 -depth 15 -full 128 
+th main.lua -netType resnet-csbinary-felix8 -dataset mhad  -numChannels 16 -batchSize 10 -depth 15 -full 128  -nEpochs 80
+th main.lua -netType resnet-tcsbinary-felix8 -dataset mhad  -numChannels 16 -batchSize 10 -depth 15 -full 128  -nEpochs 80
+
+
+For the bilingual dataset:
+
+th main.lua -netType resnet-binary-felix8 -dataset dbilingual  -numChannels 16 -batchSize 10 -depth 15 -full 128 
+th main.lua -netType resnet-csbinary-felix8 -dataset dbilingual  -numChannels 16 -batchSize 10 -depth 15 -full 128  -nEpochs 80
+th main.lua -netType resnet-tcsbinary-felix8 -dataset dbilingual  -numChannels 16 -batchSize 10 -depth 15 -full 128  -nEpochs 80

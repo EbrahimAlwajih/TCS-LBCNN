@@ -6,7 +6,7 @@ The writing style of the same writer varies from instance to instance in Arabic 
 
 ***
 ### Paper Download
-https://www.sciencedirect.com/science/article/abs/pii/S0950705122011753?via%3Dihub
+https://doi.org/10.1016/j.knosys.2022.110079
 
 ## Research Aims and Objectives
 This research aims to enhance the performance of LBP-based convolutional neural networks on the automatic recognition of bilingual handwriting. The objectives of the research are as follows:

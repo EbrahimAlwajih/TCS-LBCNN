@@ -9,4 +9,6 @@
 5-	Unzip the downloaded zip file in the same path used in step 3. Be sure the files are downloaded in the same folder and sub-folders. 
 Note: you should replace the files if the replacing message pops up during unzip step. 
 
+6- Download the datasets from [here](https://drive.google.com/drive/folders/1RhHh9N8uqThcBF9W3UpSRsaOZxZHjfzo?usp=sharing)
+
 6-	Run the code as described [here](https://github.com/EbrahimAlwajih/TCS-LBCNN/blob/main/run%20command)

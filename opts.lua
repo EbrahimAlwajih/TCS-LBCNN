@@ -14,7 +14,7 @@ function M.parse(arg)
     ------------ General options --------------------
 
    --cmd:option('-data',  home .. '/Datasets', 'path to dataset')
-   cmd:option('-data',  './Data', 'path to dataset')	
+   cmd:option('-data',  './data', 'path to dataset')	
    cmd:option('-dataset',    'mnist', 'Options: imagenet | cifar10 | svhn | frgc | cifar10 | mhad | dbilingual '  )
    cmd:option('-manualSeed', 3,          'Manually set RNG seed')
    cmd:option('-GPU',        1,          'Default GPu to use')
